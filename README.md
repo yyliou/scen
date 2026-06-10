@@ -1,6 +1,6 @@
-# scen <img src="man/figures/logo.svg" align="right" height="170" alt="scen hex logo" />
+# scen 
 
-## 1. Overview
+## 1. Overview <img src="man/figures/logo.svg" align="right" height="170" alt="scen hex logo" />
 
 `scen` is an R client for the **Tourism Statistics Database of the Taiwan Tourism
 Administration** (交通部觀光署觀光統計資料庫, <https://stat.taiwan.net.tw>). The
