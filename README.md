@@ -20,8 +20,7 @@ you tidy `tibble`s straight from R.
 pak::pak("httr2"); pak::pak("jsonlite"); pak::pak("tibble"); pak::pak("rlang"); pak::pak("cli")
 
 # from this folder:
-devtools::document()   # build man pages from the roxygen comments
-devtools::install()
+remotes::install_github("yyliou/scen")
 ```
 
 `devtools::load_all()` works for development without building docs first.
