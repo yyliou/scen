@@ -1,0 +1,418 @@
+﻿縣市,據點名稱(中文),據點名稱(英文),緯度,經度,座標來源,配對信心,官方對應名稱
+臺北市,士林官邸公園,Chiang Kai-shek Shilin Residence Park,25.09304,121.53239,觀光署開放資料,中（模糊比對，建議核對）,士林官邸_士林官邸公園
+臺北市,士林觀光夜市,Shilin Night Market,25.08787,121.52408,觀光署開放資料,高（名稱完全相符）,士林觀光夜市
+臺北市,大屯遊憩區,Datun Recreation Area,25.1771283,121.5460685,OSM地理編碼,地理編碼（自動）,
+臺北市,大直商圈,Dazhi Commercial District,25.0404104,121.566843,OSM地理編碼,地理編碼（自動）,
+臺北市,大稻埕迪化街商圈,Dihua Street - Lunar New Year Shopping Area,25.0588926,121.5288735,OSM地理編碼,地理編碼（自動）,
+臺北市,小油坑遊憩區,Xiaoyoukeng Recration Area,25.17669,121.54683,觀光署開放資料,中（模糊比對，建議核對）,陽明山溫泉區_小油坑
+臺北市,心中山線形公園及赤峰街商圈,Xinzhongshan Linear Park and Chifeng Street Commercial District,25.0553313,121.5205532,OSM地理編碼,地理編碼（自動）,
+臺北市,台北101及信義商圈,Taipei 101and Xinyi Commercial District,25.03361,121.56476,觀光署開放資料,高（名稱包含相符）,台北101
+臺北市,台北當代藝術館,"Museum of Contemporary Art ,Taipei",25.05072,121.51892,觀光署開放資料,高（名稱完全相符）,台北當代藝術館
+臺北市,白石湖吊橋及周邊地區,Baishihu Suspension Bridge and Surrounding Areas,25.09917,121.58711,觀光署開放資料,高（核心名稱相符）,白石湖吊橋
+臺北市,西門町商圈,Ximenting,25.04458,121.50753,觀光署開放資料,高（核心名稱相符）,西門町
+臺北市,西門紅樓,The Red House,25.04207,121.50693,觀光署開放資料,高（名稱完全相符）,西門紅樓
+臺北市,冷水坑,Lengshuikeng,25.16559,121.56401,觀光署開放資料,中（模糊比對，建議核對）,陽明山國家公園_冷水坑
+臺北市,南海學園及台北植物園,Nanhai Academy and Taipei Botanical Garden,25.031,121.50866,觀光署開放資料,中（模糊比對，建議核對）,臺北植物園
+臺北市,國民革命忠烈祠及經國七海文化園區,National Revolutionary Martyrs’ Shrine and Ching-Kuo Chi-Hai Cultural Park,25.07838,121.53313,觀光署開放資料,高（名稱包含相符）,國民革命忠烈祠
+臺北市,國立中正紀念堂及國家兩廳院,National Chiang Kai-shek Memorial Hall and National Theater & Concert Hall,25.03619,121.51868,觀光署開放資料,高（名稱包含相符）,國立中正紀念堂
+臺北市,國立故宮博物院,National Palace Museum,25.10236,121.54849,觀光署開放資料,高（名稱完全相符）,國立故宮博物院
+臺北市,國立國父紀念館,National Dr. Sun Yat-sen Memorial Hall,25.0399868,121.5602911,OSM地理編碼,地理編碼（自動）,
+臺北市,國立臺灣博物館,National Taiwan Museum,25.04356,121.51436,觀光署開放資料,高（名稱包含相符）,國立臺灣博物館_古生物館
+臺北市,華山1914文化創意產業園區及周邊地區,Huashan 1914 Creative Park and Surrounding Areas,25.04413,121.5294,觀光署開放資料,高（核心名稱相符）,華山1914文化創意產業園區
+臺北市,陽明山遊客中心,Yangmingshan Visitor Center,25.16559,121.56401,觀光署開放資料,中（模糊比對，建議核對）,陽明山國家公園_冷水坑
+臺北市,陽明公園,Yangming Park,25.15921,121.54013,觀光署開放資料,高（名稱完全相符）,陽明公園
+臺北市,陽明書屋,Yangmingshuwu,25.16164,121.53894,觀光署開放資料,高（名稱完全相符）,陽明書屋
+臺北市,新北投溫泉區,Xinbeitou Hot Springs,25.137,121.50853,觀光署開放資料,中（模糊比對，建議核對）,新北投溫泉商圈
+臺北市,臺北孔廟,Taipei Confucius Temple,25.07295,121.5166,觀光署開放資料,高（名稱完全相符）,臺北孔廟
+臺北市,臺北文化體育園區及松山文創園區及國家鐵道博物館,"Taipei Cultural and Sports Park, Songshan Cultural and Creative Park, and National Railway Museum",25.0437228,121.560797,OSM地理編碼,地理編碼（自動）,
+臺北市,臺北市立美術館及花博園區及周邊地區,"Taipei Fine Arts Museum, Taipei Expo Park, and Surrounding Areas",25.07196,121.52437,觀光署開放資料,高（名稱包含相符）,臺北市立美術館
+臺北市,臺北市立動物園,Taipei Zoo,24.99886,121.58106,觀光署開放資料,高（名稱完全相符）,臺北市立動物園
+臺北市,臺北自來水園區及公館商圈及周邊地區,"Taipei Water Park,Gongguan Commercial District and Surrounding Area",25.01253,121.53,觀光署開放資料,高（名稱包含相符）,臺北自來水園區
+臺北市,臺北科學藝術園區,Taipei Science and Art Park,25.0969121,121.5150345,OSM地理編碼,地理編碼（自動）,
+臺北市,龍鳳谷遊憩區,Longfonggu Recreation Area,25.1477391,121.5307109,OSM地理編碼,地理編碼（自動）,
+臺北市,擎天崗,Qingtiangang,25.16727,121.57419,觀光署開放資料,高（名稱完全相符）,擎天崗
+臺北市,關渡自然公園,Guandu Nature Park,25.1189,121.4708,觀光署開放資料,高（名稱完全相符）,關渡自然公園
+臺北市,饒河街觀光夜市,Raohe Street Tourist Night Market,25.05091,121.57754,觀光署開放資料,高（名稱完全相符）,饒河街觀光夜市
+新北市,八里左岸公園及周邊地區,Bali Left Bank Park and the surrounding areas,25.15135,121.44295,觀光署開放資料,高（核心名稱相符）,八里左岸自行車道
+新北市,十分遊客中心,Shifen Visitor Center,25.04711,121.78279,OSM地理編碼,地理編碼（自動）,
+新北市,十分瀑布,Shifen Waterfall,25.04897,121.78746,觀光署開放資料,高（核心名稱相符）,十分瀑布公園
+新北市,三芝遊客中心園區,Sanzhi Tourist Center,25.2489825,121.507605,OSM地理編碼,地理編碼（自動）,
+新北市,三峽老街,Sansia Old Street,24.93377,121.36981,觀光署開放資料,高（名稱完全相符）,三峽老街
+新北市,三峽歷史文物館,Sansia Historical Relic Hall,24.93445,121.36934,觀光署開放資料,高（名稱完全相符）,三峽歷史文物館
+新北市,大板根森林溫泉酒店,The Great Roots Forestry Spa Resort,24.8728116,121.4089462,OSM地理編碼,地理編碼（自動）,
+新北市,中角灣遊憩區,Jhongjiao Bay Tourist Site,25.23895,121.63436,觀光署開放資料,高（核心名稱相符）,中角灣
+新北市,內洞國家森林遊樂區,Neidong National Forest Recreation Area,24.83387,121.52553,觀光署開放資料,高（名稱完全相符）,內洞國家森林遊樂區
+新北市,水湳洞遊客中心,Shuinandong Visitor Center,25.12188,121.86163,觀光署開放資料,高（名稱包含相符）,水湳洞遊客中心_山城美館
+新北市,白沙灣遊憩區,Baisha Bay Tourist Site,25.28418,121.51718,觀光署開放資料,中（模糊比對，建議核對）,白沙灣海水浴場
+新北市,石門洞遊憩區,Shimen （Stone） Arch Tourist Site,25.2959,121.56843,觀光署開放資料,高（核心名稱相符）,石門洞
+新北市,朱銘美術館,Juming Museum,25.24645,121.61119,觀光署開放資料,高（名稱完全相符）,朱銘美術館
+新北市,宏匯廣場,Honhui Plaza,25.05968,121.44957,觀光署開放資料,高（名稱完全相符）,宏匯廣場
+新北市,府中商圈,Fuzhong Shopping Area,25.0474308,121.5065669,OSM地理編碼,地理編碼（自動）,
+新北市,林口三井Outlet,MITSUI Outlet Park,25.0706254,121.3651746,OSM地理編碼,地理編碼（自動）,
+新北市,林本源園邸(林家花園),The Lin Family Mansion and Garden,25.01113,121.45459,觀光署開放資料,高（名稱包含相符）,林本源園邸
+新北市,法鼓山世界佛教教育園區,Dharma Drum Mountain World Center for Buddhist Education,25.23984,121.61489,觀光署開放資料,中（模糊比對，建議核對）,法鼓山
+新北市,烏來風景特定區,Wulai Special Scenic Area,24.86493,121.55198,觀光署開放資料,高（核心名稱相符）,烏來風景區
+新北市,淡水金色水岸及周邊地區,Tamshui Gold Seashore and the surrounding areas,25.16786,121.44375,觀光署開放資料,高（核心名稱相符）,淡水金色水岸
+新北市,淡水漁人碼頭,Tamshui Fishman’s Wharf,25.18339,121.41147,觀光署開放資料,高（名稱包含相符）,淡水漁人碼頭(淡二漁港)
+新北市,淺水灣遊憩區,Qianshui Bay Tourist Site,25.25147,121.46991,觀光署開放資料,中（模糊比對，建議核對）,淺水灣海濱公園
+新北市,清水祖師廟,Cingshui Zushih Temple,24.934,121.37023,觀光署開放資料,中（模糊比對，建議核對）,三峽清水祖師廟
+新北市,野柳遊憩區,Yehliu Tourist Site,25.2064,121.69047,觀光署開放資料,高（核心名稱相符）,野柳地質公園
+新北市,富貴角遊憩區,Fugui Cape Tourist Site,25.29247,121.53834,觀光署開放資料,高（名稱完全相符）,富貴角遊憩區
+新北市,猴硐煤礦博物園區,Houtong Coal Mine Ecological Park,25.08687,121.82785,觀光署開放資料,高（名稱完全相符）,猴硐煤礦博物園區
+新北市,雲仙樂園,Yun Hsien Resort,24.8452,121.55391,觀光署開放資料,高（名稱完全相符）,雲仙樂園
+新北市,新北大都會公園及周邊地區,New Taipei Metropolitan Park and the surrounding areas,25.0544,121.48323,觀光署開放資料,中（模糊比對，建議核對）,新北大都會公園 (二重疏洪道河濱公園)
+新北市,新北市立十三行博物館,New Taipei City Shihsanhang Museum of Archaeology,25.15688,121.40485,觀光署開放資料,高（名稱完全相符）,新北市立十三行博物館
+新北市,新北市立淡水古蹟博物館,"Tamsui Historical Museum,New Taipei City",25.17543,121.43294,觀光署開放資料,中（模糊比對，建議核對）,紅毛城園區(新北市立淡水古蹟博物館)
+新北市,新北市立黃金博物館,New Taipei City Government Gold Museum,25.10796,121.85766,觀光署開放資料,高（名稱完全相符）,新北市立黃金博物館
+新北市,新北市立鶯歌陶瓷博物館,New Taipei City Yingge Ceramics Museum,24.94925,121.35203,觀光署開放資料,高（名稱完全相符）,新北市立鶯歌陶瓷博物館
+新北市,新北市坪林茶業博物館,Pinglin Tea Museum of New Taipei City,24.93443,121.713,觀光署開放資料,高（名稱完全相符）,新北市坪林茶業博物館
+新北市,新北市客家文化園區,New Taipei City Hakka Museum,24.94174,121.35977,觀光署開放資料,高（名稱完全相符）,新北市客家文化園區
+新北市,獅頭山公園遊憩區,Shitou Mountain Park Tourist Site,24.95622,121.54834,觀光署開放資料,高（核心名稱相符）,獅頭山登山步道
+新北市,瑞芳風景特定區,Ruifang Special Scenic Area,25.10981,121.84345,觀光署開放資料,高（名稱完全相符）,瑞芳風景特定區
+新北市,裕隆城,Yulon City,24.9781107,121.5467767,OSM地理編碼,地理編碼（自動）,
+新北市,滿月圓國家森林遊樂區,Manyueyuan National Forest Recreation Area,24.83043,121.4447,觀光署開放資料,高（名稱完全相符）,滿月圓國家森林遊樂區
+新北市,碧潭風景特定區,Bitan Special Scenic Area,24.95599,121.5365,觀光署開放資料,高（核心名稱相符）,碧潭風景區
+新北市,翡翠灣遊憩區,Green Bay Tourist Center,25.1869536,121.6835083,OSM地理編碼,地理編碼（自動）,
+新北市,鼻頭龍洞遊憩區,Bitou Longdong Recreation Area,25.12123,121.8871,觀光署開放資料,高（核心名稱相符）,鼻頭龍洞地質公園
+新北市,鶯歌老街,Yingge Historic Street,24.95221,121.34734,觀光署開放資料,高（名稱完全相符）,鶯歌老街
+新北市,鹽寮福隆遊憩區,Yanliao Fulong Recreation Area,25.0213645,121.9318259,OSM地理編碼,地理編碼（自動）,
+新北市,觀音山遊客中心園遊憩區,Guanyinshan Tourist Center Area,25.12955,121.41822,觀光署開放資料,高（名稱包含相符）,觀音山遊客中心
+桃園市,1895乙未保台紀念公園,1895 War Memorial Park,24.94827,121.20551,觀光署開放資料,高（名稱完全相符）,1895乙未保台紀念公園
+桃園市,八德埤塘自然生態公園,Bade Pond Ecology Park,24.94166,121.31125,觀光署開放資料,高（名稱完全相符）,八德埤塘自然生態公園
+桃園市,三坑自然生態公園,Sankeng Eco Park,24.83895,121.25738,觀光署開放資料,高（名稱完全相符）,三坑自然生態公園
+桃園市,大溪月眉休閒農業區,YaMay Leisure Agriculture Area,24.8851,121.28262,觀光署開放資料,中（模糊比對，建議核對）,大溪月眉至龍潭三坑水岸觀光綠廊
+桃園市,大溪老城區,Daxi Zhongzheng Park,24.8847,121.28867,觀光署開放資料,中（模糊比對，建議核對）,大溪老街
+桃園市,小人國主題樂園,Window on China Theme Park,24.83195,121.18711,觀光署開放資料,中（模糊比對，建議核對）,小人國
+桃園市,小烏來風景特定區,Siaowulai Scenic Area,24.79064,121.37519,觀光署開放資料,中（模糊比對，建議核對）,小烏來天空步道
+桃園市,中原商圈,Zhongyuan Commercial District,24.95543,121.24062,觀光署開放資料,高（名稱包含相符）,中原商圈 (中原夜市)
+桃園市,六和商圈,Liuhe Commercial District,24.9458899,121.1849276,OSM地理編碼,地理編碼（自動）,
+桃園市,永安漁港,Yong-an Fish Harbor,24.98773,121.01578,觀光署開放資料,高（名稱完全相符）,永安漁港
+桃園市,石門水庫風景區,Shihmen Reservoir,24.81323,121.24589,觀光署開放資料,高（核心名稱相符）,石門水庫
+桃園市,竹圍漁港,Zhuwei Fishing Port,25.11686,121.24416,觀光署開放資料,高（名稱完全相符）,竹圍漁港
+桃園市,老街溪沿岸步道,Zhongli Laojie Creek Trail,24.9585814,121.2193715,OSM地理編碼,地理編碼（自動）,
+桃園市,角板山遊憩區,Jiaobanshan Resort,24.81626,121.34889,觀光署開放資料,中（模糊比對，建議核對）,角板山行館
+桃園市,拉拉山風景區,Lala Mountain Nature Protection,24.70992,121.43678,觀光署開放資料,中（模糊比對，建議核對）,拉拉山巨木區（拉拉山國家森林遊樂區）
+桃園市,東眼山國家森林遊樂區,Dongyanshan National Forest Recreation Area,24.8313,121.40785,觀光署開放資料,高（名稱完全相符）,東眼山國家森林遊樂區
+桃園市,虎頭山風景特定區,Houtou Mountain Scenic Area,25.00167,121.3343,觀光署開放資料,高（核心名稱相符）,虎頭山公園
+桃園市,青埔藝術運動園區,Qingpu Arts and Sports Complex,25.0209757,121.2185088,OSM地理編碼,地理編碼（自動）,
+桃園市,桃園市客家文化館,Taoyuan City Hakka Cultural Park,24.8457389,121.2342425,OSM地理編碼,地理編碼（自動）,
+桃園市,桃園站前商圈,Taoyuan Station Front Commercial District,25.01299,121.21486,觀光署開放資料,中（模糊比對，建議核對）,台灣高鐵桃園站
+桃園市,桃園高鐵商圈,Taoyuan HSR Commercial Area,25.0130205,121.2148716,OSM地理編碼,地理編碼（自動）,
+桃園市,桃園藝文特區商圈,Taoyuan Arts and Cultural District,25.0172396,121.2995772,OSM地理編碼,地理編碼（自動）,
+桃園市,草漯沙丘地質公園,Caota Sand Dunes Geopark,25.08023,121.16669,觀光署開放資料,高（名稱完全相符）,草漯沙丘地質公園
+桃園市,慈湖,Cihu,24.84037,121.29427,觀光署開放資料,高（核心名稱相符）,慈湖遊客中心
+桃園市,新屋綠色走廊,Xinwu Green Corridor,24.96945,121.01234,觀光署開放資料,高（名稱完全相符）,新屋綠色走廊
+桃園市,龍潭觀光大池,Longtan Large Tourist Pond,24.86356,121.20944,觀光署開放資料,高（名稱完全相符）,龍潭觀光大池
+桃園市,觀音蓮花園休閒農業區,Lotus Park Leisure Agriculture Area,25.0383466,121.0839557,OSM地理編碼,地理編碼（自動）,
+新竹縣,小叮噹科學主題樂園,Little Ding-Dong Science Theme Park,24.8697,120.98,觀光署開放資料,高（名稱完全相符）,小叮噹科學主題樂園
+新竹縣,內灣老街,Neiwan Old Street,24.7053464,121.1826789,OSM地理編碼,地理編碼（自動）,
+新竹縣,六福村主題遊樂園,Leofoo Village Theme Park,24.8252,121.181,觀光署開放資料,高（名稱完全相符）,六福村主題遊樂園
+新竹縣,北埔老街,Beipu Old Street,24.69982,121.05722,觀光署開放資料,高（名稱完全相符）,北埔老街
+新竹縣,獅頭山風景區(新竹地區),Lion’s Head Mountain Scenic Area-Hsinchu,24.8014911,121.089501,OSM地理編碼,地理編碼（自動）,
+新竹縣,萬瑞森林樂園,Wanjui Forest Recreational Area,24.7026714,121.1328048,OSM地理編碼,地理編碼（自動）,
+新竹縣,綠世界生態農場,Green World Ecological Farm,24.69881,121.0711,觀光署開放資料,高（名稱完全相符）,綠世界生態農場
+新竹市,新竹公園,Hsinchupark,24.801246,120.977132,觀光署開放資料,高（名稱包含相符）,新竹公園(中山公園)
+新竹市,新竹城隍廟,Hsinchu Cheng Huang Temple,24.8043564,120.9660651,OSM地理編碼,地理編碼（自動）,
+新竹市,新竹漁港,Hsinchu Fishing Port,24.84818,120.92514,觀光署開放資料,高（名稱完全相符）,新竹漁港
+基隆市,正濱漁港及周邊地區,Chen-Pin Fishing Harbor & Surrounding Area,25.1525042,121.7689936,OSM地理編碼,地理編碼（自動）,
+基隆市,和平島地質公園,Heping Island GeoPark,25.16079,121.76383,觀光署開放資料,高（名稱完全相符）,和平島地質公園
+基隆市,國立海洋科技博物館,National Museum of Marine Science & Technology,25.13959,121.79319,觀光署開放資料,高（名稱完全相符）,國立海洋科技博物館
+基隆市,基隆塔,KEELUNG TOWER,25.1327794,121.7469846,OSM地理編碼,地理編碼（自動）,
+基隆市,基隆嶼,Keelung Islet,25.1924803,121.7867618,OSM地理編碼,地理編碼（自動）,
+基隆市,情人湖公園及湖海灣遊憩區,Lovers Lake Park & Huhai Bay Tourist Site,25.15696,121.7059,觀光署開放資料,高（名稱包含相符）,情人湖公園
+基隆市,陽明海洋文化藝術館,Yangming Oceanic Culture and Art Museum,25.1326031,121.7400931,OSM地理編碼,地理編碼（自動）,
+宜蘭縣,大里外澳遊憩區,Dali Waiao Recreation Area,24.8843634,121.8376907,OSM地理編碼,地理編碼（自動）,
+宜蘭縣,五峰旗風景區,Wufongci Waterfall,24.83283,121.74644,觀光署開放資料,中（模糊比對，建議核對）,五峰旗瀑布
+宜蘭縣,太平山國家森林遊樂區,Taipingshan National Forest Recreation Area,24.49775,121.53503,觀光署開放資料,高（名稱完全相符）,太平山國家森林遊樂區
+宜蘭縣,冬山河生態綠舟,Dongshan Rivere-coark,24.6388,121.78853,觀光署開放資料,高（名稱完全相符）,冬山河生態綠舟
+宜蘭縣,冬山河親水公園,Dongshan River Water Park,24.67299,121.81581,觀光署開放資料,高（名稱完全相符）,冬山河親水公園
+宜蘭縣,宜蘭濱海遊憩區,Yilan Ocean Recreation Area,24.71743,121.82818,觀光署開放資料,高（核心名稱相符）,宜蘭濱海自行車道
+宜蘭縣,明池森林遊樂區,Mingchih Forest Recreation Area,24.65074,121.47322,觀光署開放資料,高（名稱完全相符）,明池森林遊樂區
+宜蘭縣,武荖坑風景區,Wulaokeng Scenic Area,24.61061,121.81444,觀光署開放資料,高（名稱完全相符）,武荖坑風景區
+宜蘭縣,國立傳統藝術中心,National Center for Traditional Arts,24.6854562,121.8237458,OSM地理編碼,地理編碼（自動）,
+宜蘭縣,清水地熱公園,Qingshui Geothermal Park,24.61182,121.63638,觀光署開放資料,高（名稱完全相符）,清水地熱公園
+宜蘭縣,棲蘭森林遊樂區,Cilan Forest Recreation Area,24.58078,121.49321,觀光署開放資料,高（名稱完全相符）,棲蘭森林遊樂區
+宜蘭縣,龍潭湖,Longtan Lake,24.79641,121.74061,觀光署開放資料,高（核心名稱相符）,龍潭湖風景區
+宜蘭縣,蘇澳冷泉,Su-ao Cold Spring,24.59932,121.8499,觀光署開放資料,高（名稱完全相符）,蘇澳冷泉
+宜蘭縣,蘭陽博物園區,Yilan County Lanyang Museum,24.86865,121.83275,觀光署開放資料,中（模糊比對，建議核對）,蘭陽博物館
+苗栗縣,三義水美木雕街,SANYI SHUEI-MEI WOOD SCULPTURE STREET,24.40073,120.76296,觀光署開放資料,中（模糊比對，建議核對）,水美木雕街
+苗栗縣,大湖草莓文化館,Dahu Strawberry Culture Museum,24.42892,120.86815,觀光署開放資料,高（名稱完全相符）,大湖草莓文化館
+苗栗縣,木雕博物館,Miaoli Woodsculpture Museum,24.40592,120.76118,觀光署開放資料,中（模糊比對，建議核對）,三義木雕博物館
+苗栗縣,白沙屯拱天宮,BAISHATUN GONG-TIEN TEMPLE,24.57147,120.7091,觀光署開放資料,高（名稱完全相符）,白沙屯拱天宮
+苗栗縣,西湖渡假村,West Lake Resortopia,24.38964,120.76175,觀光署開放資料,高（名稱完全相符）,西湖渡假村
+苗栗縣,汶水遊客中心,Wenshui Visitor Center,24.4501016,120.8785906,OSM地理編碼,地理編碼（自動）,
+苗栗縣,尚順育樂世界,Shang Shun World,24.68904,120.90399,觀光署開放資料,高（名稱完全相符）,尚順育樂世界
+苗栗縣,明德水庫,Mingde Reservoir,24.58467,120.88678,觀光署開放資料,高（核心名稱相符）,明德水庫風景區
+苗栗縣,客家圓樓,Hakka Round House,24.60349,120.82331,觀光署開放資料,中（模糊比對，建議核對）,苗栗客家圓樓
+苗栗縣,飛牛牧場,Flying Cow Ranch,24.4402921,120.7419632,OSM地理編碼,地理編碼（自動）,
+苗栗縣,雪見遊憩區,Xuejian Recreation Area,24.4248172,121.0132999,OSM地理編碼,地理編碼（自動）,
+苗栗縣,獅頭山風景區(苗栗地區),Lion’s Head Mountain Scenic Area-Miaoli,24.6442411,121.006526,OSM地理編碼,地理編碼（自動）,
+苗栗縣,臺灣客家文化館,Taiwan HAKKA Museum,24.46239,120.77125,觀光署開放資料,高（名稱完全相符）,臺灣客家文化館
+苗栗縣,龍鳳漁港,LONGFENG FISHING PORT,24.69975,120.85827,觀光署開放資料,中（模糊比對，建議核對）,竹南龍鳳漁港
+苗栗縣,舊山線鐵道自行車,Old Mountain Line Rail Bike,24.38823,120.78205,觀光署開放資料,高（名稱完全相符）,舊山線鐵道自行車
+苗栗縣,觀霧山椒魚生態中心,Guanwu Salamander Ecological Center,24.5065556,121.1145493,OSM地理編碼,地理編碼（自動）,
+臺中市,一中商圈,Yizhong Shopping District,24.14914,120.68502,觀光署開放資料,高（名稱完全相符）,一中商圈
+臺中市,八仙山國家森林遊樂區,Basianshan National Forest Recreation Area,24.20073,121.00136,觀光署開放資料,高（名稱完全相符）,八仙山國家森林遊樂區
+臺中市,大甲鎮瀾宮,Da Jia Jenn Lann Temple,24.34523,120.62357,觀光署開放資料,高（名稱完全相符）,大甲鎮瀾宮
+臺中市,大坑登山步道,Ta-Keng Hiking Path,24.1802,120.7337,觀光署開放資料,高（核心名稱相符）,大坑風景區
+臺中市,大雪山國家森林遊樂區,Dasyueshan National Forest Recreation Area,24.25533,121.00818,觀光署開放資料,高（名稱完全相符）,大雪山國家森林遊樂區
+臺中市,中華夜市,Chung Hua Night Market,24.0950436,120.7193906,OSM地理編碼,地理編碼（自動）,
+臺中市,公益路商圈,Gongyi Road Shopping District,24.15088,120.65108,觀光署開放資料,中（模糊比對，建議核對）,公益路美食
+臺中市,文心森林公園,Wenxin Forest Park,24.1454324,120.6467169,OSM地理編碼,地理編碼（自動）,
+臺中市,忠孝夜市,Zhongxiao Night Market,24.1302138,120.6833681,OSM地理編碼,地理編碼（自動）,
+臺中市,東海藝術商圈與夜市及路思義教堂,Donghai Shopping District and Luce Chapel,24.1789,120.60055,觀光署開放資料,中（模糊比對，建議核對）,路思義教堂
+臺中市,東勢林場遊樂區,Dongshi Forest Garden,24.28661,120.8688,觀光署開放資料,高（名稱包含相符）,東勢林場
+臺中市,東豐自行車綠廊及后豐鐵馬道(含后里馬場),Dongfong Green Bikeway and Houfeng Bikeway,24.27604,120.77887,觀光署開放資料,高（名稱包含相符）,東豐自行車綠廊
+臺中市,武陵農場(含雪霸武陵遊客中心),Wuling Farm,24.3506171,121.3090878,OSM地理編碼,地理編碼（自動）,
+臺中市,阿罩霧遊憩區,Wufeng area,24.05362,120.70077,觀光署開放資料,中（模糊比對，建議核對）,阿罩霧櫻花杜鵑步道
+臺中市,城中城區,Taichung Midtown,24.0664431,120.6987426,OSM地理編碼,地理編碼（自動）,
+臺中市,帝國糖廠及LaLaport觀光廊帶,Empire Sugar Factory Taichung Office AND Mitsui Shopping Park LaLaport,24.13742,120.68556,OSM地理編碼,地理編碼（人工校正）,
+臺中市,柳川水岸步道及沿岸景點,Liuchuan Canal Waterfront,24.1488715,120.6783417,OSM地理編碼,地理編碼（自動）,
+臺中市,秋紅谷景觀生態公園與周邊商圈,Maple Garden,24.16797,120.63905,觀光署開放資料,高（名稱包含相符）,秋紅谷景觀生態公園
+臺中市,草悟道,Calligraphy Greenway,24.14841,120.66478,觀光署開放資料,高（名稱完全相符）,草悟道
+臺中市,高美濕地,Gaomei Wetland,24.31195,120.54981,觀光署開放資料,高（名稱包含相符）,高美濕地_高美野生動物保護區
+臺中市,國立自然科學博物館,National Museum of Natural Science,24.15724,120.66606,觀光署開放資料,高（名稱完全相符）,國立自然科學博物館
+臺中市,國立臺灣美術館(含美術園道商圈),National Taiwan Museum of Fine Arts,24.13597,120.66286,觀光署開放資料,中（模糊比對，建議核對）,美術園道商圈
+臺中市,梧棲觀光漁港(含台中海洋館),Wuci Tourist Fish Port And Taichung Aquarium,24.29303,120.52077,觀光署開放資料,高（名稱包含相符）,梧棲觀光漁港
+臺中市,梨山風景區(谷關地區),,24.25476,121.2512,觀光署開放資料,高（名稱包含相符）,梨山風景區
+臺中市,梨山風景區(梨山地區),,24.25476,121.2512,觀光署開放資料,高（名稱包含相符）,梨山風景區
+臺中市,逢甲夜市,Feng Chia Night Market,24.17951,120.64632,觀光署開放資料,高（核心名稱相符）,逢甲觀光夜市
+臺中市,新社職人小鎮,Xinshe Artisan Town,24.2510088,120.8133582,OSM地理編碼,地理編碼（自動）,
+臺中市,萬和宮(含南屯老街),Wan-He Temple,24.13909,120.63948,觀光署開放資料,中（模糊比對，建議核對）,南屯老街
+臺中市,福壽山農場,Fushoushan Farm,24.2468592,121.2463891,OSM地理編碼,地理編碼（自動）,
+臺中市,臺中中央公園,Taichung Central Park,24.16477,120.64347,觀光署開放資料,中（模糊比對，建議核對）,新光三越百貨_台中中港店
+臺中市,臺中公園,Taichung Park,24.14431,120.68571,觀光署開放資料,高（名稱完全相符）,臺中公園
+臺中市,臺中國家歌劇院,National Taichung Theater,24.16265,120.6403,觀光署開放資料,高（名稱完全相符）,臺中國家歌劇院
+臺中市,臺中都會公園,Taichung Metropolitan Park,24.20787,120.59852,觀光署開放資料,高（名稱完全相符）,臺中都會公園
+臺中市,臺中驛鐵道文化園區及綠空廊道,Taichung Station Cultural Parkand Taichung Overpass,24.1371092,120.6868719,OSM地理編碼,地理編碼（自動）,
+臺中市,廟東夜市及慈濟宮,Miao Dong Night Market and Mazu Temple,24.2533,120.72205,OSM地理編碼,地理編碼（人工校正）,
+臺中市,潭雅神綠園道,TanYashen Green Bikeway,24.2328,120.69444,觀光署開放資料,高（名稱完全相符）,潭雅神綠園道
+臺中市,霧峰林家園區,Wufeng Lin Family Garden,24.06156,120.70318,觀光署開放資料,中（模糊比對，建議核對）,國定古蹟霧峰林家ˍ萊園
+臺中市,麗寶樂園渡假村,LihPao Resort,24.3235177,120.6959462,OSM地理編碼,地理編碼（自動）,
+臺中市,鐵砧山,Tiehchenshan Mountain Recreation Area,24.35924,120.64999,觀光署開放資料,中（模糊比對，建議核對）,大甲鐵砧山風景特定區
+彰化縣,八卦山風景區(彰化地區),Mt. Bagua Scenic Area-Changhua,24.079676,120.5540911,OSM地理編碼,地理編碼（自動）,
+彰化縣,王功漁港(含海空步道),Wangling Fishing Harbor and The Seashore Trail of Fangyuan Wetland Mangrove,23.969796,120.326592,觀光署開放資料,高（名稱包含相符）,王功漁港
+彰化縣,田尾公路花園,Tienwei Highway Garden,23.895978,120.531752,觀光署開放資料,高（名稱完全相符）,田尾公路花園
+彰化縣,扇形車庫及周邊地區,Rail roundhouse and surrounding areas,24.084416,120.535854,觀光署開放資料,高（核心名稱相符）,扇形車庫
+彰化縣,鹿港天后宮,Lukang Tian Hou Temple,24.059371,120.431471,觀光署開放資料,高（名稱完全相符）,鹿港天后宮
+彰化縣,鹿港老街及周邊地區,Lukang Old Street and surrounding areas,24.055916,120.432818,觀光署開放資料,高（核心名稱相符）,鹿港老街
+彰化縣,鹿港龍山寺,"Longshan Temple, Lugang",24.050381,120.434941,觀光署開放資料,高（名稱完全相符）,鹿港龍山寺
+彰化縣,溪州公園,Sijhou Park,23.8299645,120.5143191,OSM地理編碼,地理編碼（自動）,
+彰化縣,溪湖糖廠,Xihu Sugar Refinery,23.951413,120.480715,觀光署開放資料,高（名稱完全相符）,溪湖糖廠
+彰化縣,彰化孔子廟,"Confucius Temple, Chunghua",24.0785,120.54353,觀光署開放資料,高（名稱完全相符）,彰化孔子廟
+彰化縣,臺灣玻璃館,TAIWAN GLASS GALLERY,24.069158,120.394567,觀光署開放資料,中（模糊比對，建議核對）,台明將台灣玻璃館
+南投縣,九九峰動物樂園,JOJO ZOO PARK,23.9606067,120.7046304,OSM地理編碼,地理編碼（自動）,
+南投縣,九族文化村,Formosan Aboriginal Culture Village,23.8649809,120.9486389,OSM地理編碼,地理編碼（自動）,
+南投縣,八卦山風景區(南投地區),Mt. Bagua Scenic Area-Nantou,23.9455181,120.6300667,OSM地理編碼,地理編碼（自動）,
+南投縣,中臺禪寺,Chung-Tai Buddhist Temple,24.0090832,120.9444336,OSM地理編碼,地理編碼（自動）,
+南投縣,天空之橋,The Nantou Panoramic Skywalk,23.90845,120.6316,觀光署開放資料,中（模糊比對，建議核對）,猴探井天空之橋
+南投縣,日月潭環潭區,Sun Moon Lake Round-The-Lake Area,23.8523282,120.928607,OSM地理編碼,地理編碼（自動）,
+南投縣,水里遊客中心,Shueili Visitor Center,23.919147,120.9748863,OSM地理編碼,地理編碼（自動）,
+南投縣,竹山天梯風景區,Jhushan Sky ladder Scenic Area,23.6612299,120.7355398,OSM地理編碼,地理編碼（自動）,
+南投縣,行政院農業委員會特有生物研究保育中心,Taiwan Endemic Species Research Institute,,,查無,查無，待補,
+南投縣,杉林溪森林生態渡假園區,Sun-Link-Sea Forest and Nature Resort,23.63945,120.79216,觀光署開放資料,高（名稱完全相符）,杉林溪森林生態渡假園區
+南投縣,車埕,Checheng,23.8324779,120.8659221,OSM地理編碼,地理編碼（自動）,
+南投縣,東埔溫泉,Dongpu Hot Springs,23.56194,120.92668,觀光署開放資料,高（名稱完全相符）,東埔溫泉
+南投縣,桃米地區,Taomi Area,23.9411725,120.926044,OSM地理編碼,地理編碼（自動）,
+南投縣,泰雅渡假村,Atayal Village,24.06277,120.93338,觀光署開放資料,高（名稱完全相符）,泰雅渡假村
+南投縣,國立自然科學博物館鳳凰谷鳥園生態園區,National Museum Natural Science Fonghuanggu Bird and Ecology Park,23.72929,120.79207,觀光署開放資料,中（模糊比對，建議核對）,鳳凰谷鳥園生態園區
+南投縣,清境高空觀景步道,Qingjing Sky Walk,24.0514975,121.1628637,OSM地理編碼,地理編碼（自動）,
+南投縣,清境農場,Qingjing Farm,24.0554,121.16263,觀光署開放資料,高（名稱完全相符）,清境農場
+南投縣,惠蓀林場,Huisun Forest Recreation Area,24.07605,120.99869,觀光署開放資料,高（名稱完全相符）,惠蓀林場
+南投縣,塔塔加遊憩區,Tataka Recreation Area,23.4872132,120.8894921,OSM地理編碼,地理編碼（自動）,
+南投縣,奧萬大國家森林遊樂區,Aowanda National Forest Recreation Area,23.95533,121.17005,觀光署開放資料,高（名稱完全相符）,奧萬大國家森林遊樂區
+南投縣,溪頭自然教育園區,Xitou Nature Education Area,23.67595,120.79676,觀光署開放資料,高（名稱完全相符）,溪頭自然教育園區
+雲林縣,口湖遊憩區,Kouhu Recreation Area,23.54793,120.18237,觀光署開放資料,高（核心名稱相符）,口湖遊客中心
+雲林縣,斗六太平老街及周邊地區,Douliu Taiping Old Street and surrounding areas,23.70853,120.5418,觀光署開放資料,中（模糊比對，建議核對）,太平老街
+雲林縣,斗六膨鼠森林公園,Douliu PengShu Forest Park,23.6974756,120.5299628,OSM地理編碼,地理編碼（自動）,
+雲林縣,北港武德宮(北港武德宮管理委員會),The Beigang Wude Temple,23.58111,120.2992,觀光署開放資料,高（名稱包含相符）,北港武德宮
+雲林縣,北港朝天宮及周邊地區,Beigang Chaotian Temple and surrounding areas,23.56809,120.3048,觀光署開放資料,高（核心名稱相符）,北港朝天宮
+雲林縣,古坑綠色隧道,Gukeng Green Tunnel,23.65943,120.54092,OSM地理編碼,地理編碼（自動）,
+雲林縣,西螺福興宮,HIS LO Fusing Temple,23.80143,120.4605,觀光署開放資料,中（模糊比對，建議核對）,福興宮
+雲林縣,草嶺,Caoling,23.5814885,120.6992812,OSM地理編碼,地理編碼（自動）,
+雲林縣,劍湖山世界,JanFuSun Fancyworld,23.6147114,120.5774021,OSM地理編碼,地理編碼（自動）,
+嘉義縣,中埔遊客中心,Zhongpu Visitor Center,23.4005817,120.5121052,OSM地理編碼,地理編碼（自動）,
+嘉義縣,布袋遊憩區,Budai Recreation Area,23.378261,120.1671226,OSM地理編碼,地理編碼（自動）,
+嘉義縣,阿里山國家森林遊樂區,Alishan National Forest Recreation Area,23.51911,120.8069,觀光署開放資料,中（模糊比對，建議核對）,阿里山神木
+嘉義縣,國立故宮博物院南部院區,Southern Branch of the National Palace Museum,23.47278,120.2927,觀光署開放資料,高（名稱完全相符）,國立故宮博物院南部院區
+嘉義縣,排雲山莊及玉山群峰步道,Paiyun Lodge and Yushan Peak Trail,23.4664646,120.9498461,OSM地理編碼,地理編碼（自動）,
+嘉義縣,梅山太平雲梯,Taiping suspension bridge,23.55971,120.60088,觀光署開放資料,中（模糊比對，建議核對）,太平雲梯
+嘉義縣,圓潭生態園區,Yuantan Ecological Park,23.52894,120.65935,觀光署開放資料,高（名稱完全相符）,圓潭生態園區
+嘉義縣,達娜伊谷,Danayigu,23.38301,120.6775,觀光署開放資料,高（名稱包含相符）,達娜伊谷生態園區
+嘉義縣,觸口遊客中心,Chukou Visitor Center,23.4460067,120.5839787,OSM地理編碼,地理編碼（自動）,
+嘉義市,文化路夜市,Wenhua Road Night Market,23.47964,120.44978,觀光署開放資料,高（名稱完全相符）,文化路夜市
+嘉義市,森林之歌、嘉義製材所及車庫園區,Song of the Forest 、 Chiayi Sawmill and Garage Park,23.48665,120.44825,觀光署開放資料,高（名稱包含相符）,森林之歌
+嘉義市,嘉油鐵馬道,Jiayou Biking Trail,23.46202,120.44718,觀光署開放資料,高（名稱完全相符）,嘉油鐵馬道
+嘉義市,嘉義公園,Chiayi Park,23.48133,120.46876,觀光署開放資料,高（名稱完全相符）,嘉義公園
+嘉義市,嘉義市立美術館,Chiayi Art Museum,23.4766406,120.4408541,OSM地理編碼,地理編碼（自動）,
+嘉義市,嘉義城隍廟,Chiayi City God Temple,23.47839,120.45403,觀光署開放資料,中（模糊比對，建議核對）,國定古蹟嘉義城隍廟
+嘉義市,檜意森活村,Hinoki Village,23.48626,120.45396,觀光署開放資料,高（名稱完全相符）,檜意森活村
+嘉義市,蘭潭,Lantan,23.46844,120.47706,觀光署開放資料,高（名稱完全相符）,蘭潭
+臺南市,七股鹽業遊憩區,Qigu Salt Culture Recreation Area,23.15426,120.10017,觀光署開放資料,中（模糊比對，建議核對）,七股鹽山園區
+臺南市,大天后宮,Great Empress of Heaven Temple,23.0372,120.12445,觀光署開放資料,中（模糊比對，建議核對）,鹿耳門天后宮
+臺南市,孔廟園區,"Confucius Temple, Tainan",22.99052,120.20415,OSM地理編碼,地理編碼（人工校正）,
+臺南市,北門鹽業遊憩區,Beimen Salt Culture Recreation Area,23.2667,120.12025,觀光署開放資料,中（模糊比對，建議核對）,北門鹽場(北門舊埕州北場鹽田)
+臺南市,台南山上花園水道博物館,Tainan SHAN –SHANG Garden And Old Waterworks Museum,23.09688,120.36001,觀光署開放資料,高（名稱完全相符）,臺南山上花園水道博物館
+臺南市,四草綠色隧道及台江國家公園周邊,Sicao Green Tunnel and the Surrounding Area of Taijiang National Park,23.01964,120.13615,觀光署開放資料,高（名稱包含相符）,四草綠色隧道
+臺南市,正統鹿耳門聖母廟,Luermen Mazu Temple,23.06803,120.12724,觀光署開放資料,中（模糊比對，建議核對）,土城正統鹿耳門聖母廟
+臺南市,安平,Anping Recreation Area,23.001015,120.1627908,OSM地理編碼,地理編碼（自動）,
+臺南市,赤崁園區,Chikan Cultural Park,22.9982839,120.2031233,OSM地理編碼,地理編碼（自動）,
+臺南市,走馬瀨農場,Tsou-Ma-Lai Farm,23.13337,120.4277093,OSM地理編碼,地理編碼（自動）,
+臺南市,奇美博物館,Chimei Museum,22.9344589,120.226462,OSM地理編碼,地理編碼（自動）,
+臺南市,祀典武廟,War God Temple,22.9965239,120.2021668,OSM地理編碼,地理編碼（自動）,
+臺南市,虎頭埤風景區,Hutoubei Scenic Area,23.0297208,120.3409163,OSM地理編碼,地理編碼（自動）,
+臺南市,南紡購物中心,T.S. Mall,22.9911067,120.2330381,OSM地理編碼,地理編碼（自動）,
+臺南市,南鯤鯓代天府,"Daitianfu Temple, Nankunshen",23.2858993,120.1433204,OSM地理編碼,地理編碼（自動）,
+臺南市,柳營尖山埤渡假村,Liuying Jianshanpi Resort,23.2578374,120.4007208,OSM地理編碼,地理編碼（自動）,
+臺南市,海安商圈,Haian Commercial District,22.99659,120.19853,OSM地理編碼,地理編碼（人工校正）,
+臺南市,烏山頭水庫風景區,Wu Shan Tou Reservoir,23.2053774,120.3668398,OSM地理編碼,地理編碼（自動）,
+臺南市,烏樹林休閒園區,Wu Shu Lin Recreational Park,23.32877,120.37417,OSM地理編碼,地理編碼（自動）,
+臺南市,國立臺灣歷史博物館,National Museum of Taiwan History,23.0583507,120.2351544,OSM地理編碼,地理編碼（自動）,
+臺南市,國華友愛商圈,Guohua and You'ai Commercial District,22.9918951,120.19716,OSM地理編碼,地理編碼（自動）,
+臺南市,梅嶺風景區,Meiling Scenic Area,23.1856123,120.569674,OSM地理編碼,地理編碼（自動）,
+臺南市,麻豆代天府,"Daitianfu Temple, Madou",23.1902117,120.2601945,OSM地理編碼,地理編碼（自動）,
+臺南市,曾文水庫,Zengwun Dam,23.21009,120.49687,觀光署開放資料,高（核心名稱相符）,曾文水庫風景區
+臺南市,黃金海岸,Golden Coast,22.93175,120.1763,OSM地理編碼,地理編碼（自動）,
+臺南市,新化老街,Xinhua Old Street,23.1008056,120.2836709,OSM地理編碼,地理編碼（自動）,
+臺南市,頑皮世界,Leopard King Safari Zoo,23.2837488,120.209148,OSM地理編碼,地理編碼（自動）,
+臺南市,臺南市美術館,Tainan Art Museum,23.3086178,120.3103485,OSM地理編碼,地理編碼（自動）,
+臺南市,藍晒圖文創圈區,Blueprint Cultural & Creative Park,22.9867716,120.1968249,OSM地理編碼,地理編碼（自動）,
+臺南市,關子嶺溫泉區,Guan Zih Ling Hot Spring Area,23.339561,120.5045676,OSM地理編碼,地理編碼（自動）,
+臺南市,鹽水老街,Yanshui Old Street,23.320042,120.2676907,OSM地理編碼,地理編碼（自動）,
+高雄市,半屏山園區,Banpingshan Recreation Area,22.6974,120.30971,觀光署開放資料,高（核心名稱相符）,半屏山自然公園
+高雄市,佛光山,Foguangshan,22.7474,120.44612,觀光署開放資料,高（名稱完全相符）,佛光山
+高雄市,佛光山佛陀紀念館,Fo Guang Shan Buddha Museum,22.75729,120.44032,觀光署開放資料,高（名稱完全相符）,佛光山佛陀紀念館
+高雄市,金獅湖風景區,Jinshin lake scenic area,22.6667402,120.325858,OSM地理編碼,地理編碼（自動）,
+高雄市,茂林遊憩區,Maolin Recreation Area,22.88812,120.62001,觀光署開放資料,高（核心名稱相符）,茂林國家風景區
+高雄市,高雄市文化中心,Kaohsiung Cultural Center,22.6258,120.31814,觀光署開放資料,高（名稱完全相符）,高雄市文化中心
+高雄市,高雄市立美術館,Kaoshiung Museum of Fine Arts,22.65669,120.28655,觀光署開放資料,高（名稱完全相符）,高雄市立美術館
+高雄市,高雄市立歷史博物館,Kaohsiung Museum of History,22.62695,120.2868,觀光署開放資料,高（名稱完全相符）,高雄市立歷史博物館
+高雄市,高雄流行音樂中心,Kaohsiung Music Center,22.6183599,120.2921417,OSM地理編碼,地理編碼（自動）,
+高雄市,國立科學工藝博物館,National Science and Technology Museum,22.64149,120.32255,觀光署開放資料,高（名稱完全相符）,國立科學工藝博物館
+高雄市,梅山遊客中心及天池遊憩區,Meishan Visitor Center and Tianchi Recreation Area,23.26336,120.826,觀光署開放資料,高（名稱包含相符）,梅山遊客中心
+高雄市,蚵仔寮漁港,Keziliao Fish Market,22.7262252,120.2543586,OSM地理編碼,地理編碼（自動）,
+高雄市,愛河(五福四路至博愛一路),,22.6515814,120.299778,OSM地理編碼,地理編碼（自動）,
+高雄市,瑞豐商圈,Ruifeng Night Market,22.6662453,120.2993655,OSM地理編碼,地理編碼（自動）,
+高雄市,義大世界,E-DA World,22.72984,120.40673,觀光署開放資料,高（名稱完全相符）,義大世界
+高雄市,壽山動物園,Shoushan Zoo,22.6340052,120.2762123,OSM地理編碼,地理編碼（自動）,
+高雄市,壽山園區,Shoushan Recreation Area,22.6422145,120.2663738,OSM地理編碼,地理編碼（自動）,
+高雄市,旗山老街,Qishan Old Street,22.88511,120.48179,觀光署開放資料,高（名稱完全相符）,旗山老街
+高雄市,旗後山園區,Qihoushan Recreation Area,22.6131619,120.2641796,OSM地理編碼,地理編碼（自動）,
+高雄市,旗津風景區,Cijin Seaside,22.6082544,120.2714167,OSM地理編碼,地理編碼（自動）,
+高雄市,駁二藝術特區,The Pier-2 Art Center,22.619526,120.2816179,OSM地理編碼,地理編碼（自動）,
+高雄市,澄清湖,Chengching Lake,22.6546,120.35905,觀光署開放資料,中（模糊比對，建議核對）,澄清湖棒球場
+高雄市,蓮池潭,Lotus Pond,22.6838369,120.2964465,OSM地理編碼,地理編碼（自動）,
+高雄市,衛武營國家藝術文化中心,National Kaohsiung Center for the Arts,22.623,120.34244,觀光署開放資料,高（名稱完全相符）,衛武營國家藝術文化中心
+高雄市,龜山園區,Guishan Recreation Area,22.6244418,120.2659767,OSM地理編碼,地理編碼（自動）,
+高雄市,寶來、不老溫泉區,Boalai and Bulao Hot Springs Area,23.1070647,120.7029568,OSM地理編碼,地理編碼（自動）,
+屏東縣,8大森林樂園,Bada Forest Park,22.548617,120.555633,觀光署開放資料,中（模糊比對，建議核對）,八大森林遊樂園
+屏東縣,三地門遊憩區,Sandimen Recreation Area,22.71595,120.654733,觀光署開放資料,高（核心名稱相符）,三地門文化館
+屏東縣,大路觀溫泉渡假村,Dalukuan Hot Spring Resort,,,查無,查無，待補,
+屏東縣,大鵬灣遊憩區,Dapeng Bay Recreation Area,22.456583,120.478883,觀光署開放資料,高（核心名稱相符）,大鵬灣國家風景區
+屏東縣,小琉球遊憩區,Liuqiu Recreation Area,22.3387935,120.3713767,OSM地理編碼,地理編碼（自動）,
+屏東縣,小墾丁渡假村,Kentington Resort,22.0252977,120.8320246,OSM地理編碼,地理編碼（自動）,
+屏東縣,小灣遊憩區,Xiaowan Recreational Area,21.94134,120.80498,觀光署開放資料,高（核心名稱相符）,小灣
+屏東縣,山川琉璃吊橋,LiouLi Bridge,22.7092932,120.6533505,OSM地理編碼,地理編碼（自動）,
+屏東縣,六堆客家文化園區,Liudui Hakka Cultural Park,22.659617,120.55705,觀光署開放資料,高（名稱完全相符）,六堆客家文化園區
+屏東縣,台電南部展示館,Taipower Exhibit Center in Southern Taiwan,21.9451935,120.7438525,OSM地理編碼,地理編碼（自動）,
+屏東縣,四重溪溫泉公園,SICHONGXI HOT SPRING PARK,22.08325,120.7342,觀光署開放資料,高（核心名稱相符）,四重溪溫泉遊憩區
+屏東縣,車城福安宮,Checheng FuanTemple,22.071183,120.711217,觀光署開放資料,中（模糊比對，建議核對）,福安宮
+屏東縣,林後四林平地森林園區,Linhousilin Forest Park,22.5394444,120.586955,OSM地理編碼,地理編碼（自動）,
+屏東縣,社頂自然公園,Sheding Nature Park,21.95645,120.818367,觀光署開放資料,高（名稱完全相符）,社頂自然公園
+屏東縣,南灣遊憩區,Nanwam Recreation Area,21.9598393,120.7630178,OSM地理編碼,地理編碼（自動）,
+屏東縣,屏東酒廠(內埔),Pingtung Distillery,22.645383,120.549233,觀光署開放資料,高（名稱包含相符）,屏東酒廠
+屏東縣,屏東縣王船文化館,Pingtung King Boat Cultural Museum,22.4638062,120.4600357,OSM地理編碼,地理編碼（自動）,
+屏東縣,屏東縣民公園,Pingtung County Park,22.658783,120.493867,觀光署開放資料,高（名稱完全相符）,屏東縣民公園
+屏東縣,屏菸1936文化基地,Pingtung 1936 Tobacco Culture Base,22.661928,120.505121,觀光署開放資料,高（名稱包含相符）,屏菸1936文化基地 (屏東菸葉廠)
+屏東縣,看海美術館旅服中心,Seaside Gallery Information Center,22.0909264,120.7152019,OSM地理編碼,地理編碼（自動）,
+屏東縣,砂島貝殼砂展示館,Shadao Shell Beach Exhibition Hall,21.9131224,120.8476325,OSM地理編碼,地理編碼（自動）,
+屏東縣,國立海洋生物博物館,National Museum of Marine Biology & Aquarium,22.045783,120.699267,觀光署開放資料,高（名稱完全相符）,國立海洋生物博物館
+屏東縣,涼山遊憩區,Liangshan Recreation Area,22.68613,120.63804,觀光署開放資料,高（名稱完全相符）,涼山遊憩區
+屏東縣,勝利星村創意生活園區,,22.6786249,120.4846482,OSM地理編碼,地理編碼（自動）,
+屏東縣,臺灣原住民文化園區,Taiwan Indigenous Peoples Culture Park,22.707033,120.652283,觀光署開放資料,高（名稱完全相符）,臺灣原住民文化園區
+屏東縣,潮好玩幸福村,Chaozhou Happiness Village,22.5330971,120.53871,OSM地理編碼,地理編碼（自動）,
+屏東縣,潮州鐵道園區,CHAOZHOU RAILWAY PARK,22.5274825,120.534331,OSM地理編碼,地理編碼（自動）,
+屏東縣,墾丁海水浴場,Kenting Beach,21.944383,120.795083,觀光署開放資料,高（名稱包含相符）,墾丁海水浴場(大灣)
+屏東縣,墾丁國家公園管理處遊客中心,Kenting National Park Headquarters Visitor Center,21.948733,120.780083,觀光署開放資料,中（模糊比對，建議核對）,墾丁國家公園遊客中心
+屏東縣,墾丁國家森林遊樂區,Kenting National Forest Recreation Area,21.946317,120.795917,觀光署開放資料,高（名稱完全相符）,墾丁國家森林遊樂區
+屏東縣,貓鼻頭公園,Maobitou Park,21.921633,120.7369,觀光署開放資料,高（名稱完全相符）,貓鼻頭公園
+屏東縣,龍鑾潭自然中心,Longluan Lake Nature Center,21.975017,120.7392,觀光署開放資料,中（模糊比對，建議核對）,龍鑾潭
+屏東縣,禮納里部落,Rinari Tribal Village,22.70143,120.64645,觀光署開放資料,高（名稱完全相符）,禮納里部落
+屏東縣,雙流國家森林遊樂區,Shuangliu National Forest Recreation Area,22.217733,120.7965,觀光署開放資料,高（名稱完全相符）,雙流國家森林遊樂區
+屏東縣,鵝鑾鼻公園,Eluanbi Park,21.90232,120.85262,觀光署開放資料,高（名稱完全相符）,鵝鑾鼻公園
+屏東縣,瓊麻歷史工業展示區,Sisal Industry Historical Exhibition,21.965127,120.7421258,OSM地理編碼,地理編碼（自動）,
+屏東縣,霧臺遊憩區,Wutai Recreation Area,22.74467,120.73226,觀光署開放資料,高（名稱完全相符）,霧台遊憩區
+花蓮縣,七星潭風景區,Chishingtarn Scenic Area,24.03202,121.62852,觀光署開放資料,高（名稱完全相符）,七星潭風景區
+花蓮縣,大農大富平地森林園區,Da Nong Da Fu Forest Park,23.61485,121.41773,觀光署開放資料,高（名稱完全相符）,大農大富平地森林園區
+花蓮縣,六十石山,Liushishi Mountain,23.21907,121.3176,觀光署開放資料,高（名稱完全相符）,六十石山
+花蓮縣,太魯閣國家公園遊客中心,Taroko National Park Visitor Center,24.213439,121.4903046,OSM地理編碼,地理編碼（自動）,
+花蓮縣,布洛灣遊憩區,Pulowan Recreation Area,24.17065,121.57302,觀光署開放資料,高（名稱完全相符）,布洛灣遊憩區
+花蓮縣,玉富自行車道,Yufu Bikeway,23.2768553,121.3177963,OSM地理編碼,地理編碼（自動）,
+花蓮縣,石梯坪遊憩區,Shitiping Recreation Area,23.48525,121.51173,觀光署開放資料,高（核心名稱相符）,石梯坪
+花蓮縣,合歡山國家森林遊樂區,Hehuanshan National Forest Recreation Area,24.1419312,121.2846288,OSM地理編碼,地理編碼（自動）,
+花蓮縣,池南國家森林遊樂區,Chihnan National Forest Recreation Area,23.91821,121.50201,觀光署開放資料,高（名稱完全相符）,池南國家森林遊樂區
+花蓮縣,秀姑巒溪遊客中心園區,Xiuguluan river visitor center park,23.48786,121.40109,觀光署開放資料,高（核心名稱相符）,秀姑巒溪
+花蓮縣,赤科山,Chike Mountain,23.3882333,121.3877835,OSM地理編碼,地理編碼（自動）,
+花蓮縣,東大門國際觀光夜市,Dongdamen International Tourist Night Market,23.97298,121.61158,觀光署開放資料,高（名稱完全相符）,東大門國際觀光夜市
+花蓮縣,林田山,Lintian Mountain,23.718,121.39858,觀光署開放資料,中（模糊比對，建議核對）,林田山文化園區
+花蓮縣,花蓮將軍府1936,Hualien General’s Mansion 1936,23.9804636,121.613156,OSM地理編碼,地理編碼（自動）,
+花蓮縣,花蓮遊客中心園區,Hualien visitor center park,23.9926399,121.6009524,OSM地理編碼,地理編碼（自動）,
+花蓮縣,花蓮糖廠及周邊地區,Hualien sugar factory and surrounding areas,23.6546384,121.419565,OSM地理編碼,地理編碼（自動）,
+花蓮縣,花蓮縣石雕博物館,Hualien Stone Sculpture Museum,23.98949,121.62833,觀光署開放資料,高（名稱完全相符）,花蓮縣石雕博物館
+花蓮縣,南安遊客中心及瓦拉米步道,Nanan Visitor Center and Walami Trail,23.3026304,121.2583943,OSM地理編碼,地理編碼（自動）,
+花蓮縣,富源國家森林遊樂區,Fuyuan National Forest Recreation Area,23.58893,121.35412,觀光署開放資料,高（核心名稱相符）,富源森林遊樂區
+花蓮縣,瑞穗溫泉區,Ruisui Hot Springs,23.49542,121.34465,觀光署開放資料,高（名稱包含相符）,瑞穗溫泉
+花蓮縣,壽豐豐田地區,Shoufeng Fengtian Area,23.8484579,121.4936288,OSM地理編碼,地理編碼（自動）,
+花蓮縣,臺八線沿線景觀區,Provincial Highway 8 Scenic Area,24.1825147,121.4939579,OSM地理編碼,地理編碼（自動）,
+花蓮縣,舞鶴台地,Wuhe plateau,24.0050437,121.6306661,OSM地理編碼,地理編碼（自動）,
+花蓮縣,遠雄海洋公園,Farglory Ocean Park,23.90136,121.60337,觀光署開放資料,高（名稱完全相符）,遠雄海洋公園
+花蓮縣,慶修院,Chinxiu Temple,23.97369,121.56471,觀光署開放資料,中（模糊比對，建議核對）,吉安慶修院
+花蓮縣,豐濱鄉親不知子海上古道及周邊地區,Fengbin Qinbuzhizi ancient trail and surrounding areas,23.6749132,121.5455166,OSM地理編碼,地理編碼（自動）,
+花蓮縣,鯉魚潭風景區,Liyu Lake Scenic Area,23.93045,121.50965,觀光署開放資料,高（核心名稱相符）,鯉魚潭
+花蓮縣,羅山遊憩區,Luoshan Recreation Area,23.20159,121.27584,觀光署開放資料,高（名稱完全相符）,羅山遊憩區
+臺東縣,八仙洞遊憩區,Baxian Caves Recreation Area,23.39717,121.47668,觀光署開放資料,高（核心名稱相符）,八仙洞
+臺東縣,三仙台遊憩區及周邊地區,Sanxiantai recreation area and surrounding areas,23.12331,121.40826,觀光署開放資料,高（核心名稱相符）,三仙台風景區
+臺東縣,水產試驗所東部漁業生物研究中心（水族生態研究館）,,23.0990604,121.3827756,OSM地理編碼,地理編碼（自動）,
+臺東縣,台東波浪屋,Taitung Wave House,22.7528669,121.1471244,OSM地理編碼,地理編碼（自動）,
+臺東縣,台東美術館,Taitung Art Museum,22.7643,121.14991,觀光署開放資料,高（名稱完全相符）,臺東美術館
+臺東縣,台東森林公園,Taitung Forest Park,22.76857,121.15599,觀光署開放資料,高（名稱完全相符）,臺東森林公園
+臺東縣,池上大坡池及周邊地區,Chishang Dapochi and surrounding areas,23.11958,121.22532,觀光署開放資料,中（模糊比對，建議核對）,大坡池
+臺東縣,卑南初鹿地區,Beinan Chulu Area,22.8508298,121.0911769,OSM地理編碼,地理編碼（自動）,
+臺東縣,卑南遺址公園,Peinan Site Park,22.79211,121.1158,觀光署開放資料,高（名稱完全相符）,卑南遺址公園
+臺東縣,東部海岸富岡地質公園及加路蘭休憩區,East Coast Fugang Geopark And Jialulan Recreation Area,22.8072537,121.1969993,OSM地理編碼,地理編碼（自動）,
+臺東縣,知本國家森林遊樂區,Jhihben National Forest Recreation Area,22.68776,120.99229,觀光署開放資料,高（名稱完全相符）,知本國家森林遊樂區
+臺東縣,金針山休閒農業區,Mt. Jinjhen Recreation Farming Area,22.64309,120.95261,觀光署開放資料,中（模糊比對，建議核對）,太麻里金針山
+臺東縣,國立臺灣史前文化博物館,National Museum of Prehistory,22.7597066,121.0917381,OSM地理編碼,地理編碼（自動）,
+臺東縣,都歷處本部,East Coast National Scenic Area Administration Headquarters,23.028202,121.331617,OSM地理編碼,地理編碼（自動）,
+臺東縣,都蘭遊憩區及周邊地區,Dulan Recreation Area and Surrounding Area,22.87192,121.22606,觀光署開放資料,高（核心名稱相符）,都蘭
+臺東縣,鹿野高臺及周邊地區,Luyeh high terrace and surrounding areas,22.91646,121.12156,觀光署開放資料,高（核心名稱相符）,鹿野高台
+臺東縣,綠島遊憩區,Lyudao（Green Island）Recreation Area,22.66859,121.4689,觀光署開放資料,高（核心名稱相符）,綠島遊客中心
+臺東縣,關山小鎮地區,Guanshan Town Area,23.0473534,121.1630549,OSM地理編碼,地理編碼（自動）,
+臺東縣,蘭嶼,Lanyu（Orchid Island）,22.0438499,121.5422433,OSM地理編碼,地理編碼（自動）,
+澎湖縣,七美遊憩區,Qimei Recreation area,23.196,119.42519,觀光署開放資料,高（核心名稱相符）,七美遊客中心
+澎湖縣,小門遊憩區,Siaomen Recreation area,23.652665,119.517745,OSM地理編碼,地理編碼（自動）,
+澎湖縣,北海遊客中心及周邊地區,North Sea Visitor Center,23.66879,119.60354,觀光署開放資料,高（核心名稱相符）,北海遊客中心
+澎湖縣,北寮奎壁山地質公園,Beiliao Kuibishan Geopark,23.6002068,119.6711631,OSM地理編碼,地理編碼（自動）,
+澎湖縣,西嶼西臺遊客中心及周邊地區,Siyu Western Fort Visitor Center and surrounding areas,23.56411,119.48928,觀光署開放資料,中（模糊比對，建議核對）,西嶼西臺（西臺古堡）
+澎湖縣,南海遊客中心,South Sea Visitor Center,23.5676452,119.572866,OSM地理編碼,地理編碼（自動）,
+澎湖縣,望安遊憩區(含將軍澳嶼),,23.611895,119.516596,OSM地理編碼,地理編碼（自動）,
+澎湖縣,澎湖生活博物館,Penghu Living Museum,23.56723,119.5796,觀光署開放資料,高（名稱完全相符）,澎湖生活博物館
+澎湖縣,澎湖遊客中心,Penghu Visitor Center,23.55639,119.60659,觀光署開放資料,高（名稱完全相符）,澎湖遊客中心
+金門縣,九宮坑道,Jiugong Tunnel,24.42363,118.26269,觀光署開放資料,高（名稱完全相符）,九宮坑道
+金門縣,八二三戰史館,August 23rd Artillery Battle Museum,24.4431788,118.4324258,OSM地理編碼,地理編碼（自動）,
+金門縣,山后民俗文化村,Shanhou Folk Culture Village,24.503276,118.4405299,OSM地理編碼,地理編碼（自動）,
+金門縣,中山林遊客中心,Jhongshanlin Visitor Center,24.444181,118.3525495,OSM地理編碼,地理編碼（自動）,
+金門縣,古寧頭戰史館,Guningtou Battle Museum,24.4830889,118.3211133,OSM地理編碼,地理編碼（自動）,
+金門縣,金水學校展示館,Jinshui Elementary School Exhibition Hall,24.409383,118.29805,OSM地理編碼,地理編碼（自動）,
+金門縣,建功嶼,Jiangong Islet,24.42746,118.30005,觀光署開放資料,高（名稱完全相符）,建功嶼
+金門縣,得月樓展示館,Deyue Tower Exhibition Hall,24.40971,118.29849,觀光署開放資料,高（核心名稱相符）,得月樓
+金門縣,莒光樓,Juguang Tower,24.42497,118.319,觀光署開放資料,高（名稱完全相符）,莒光樓
+金門縣,湖井頭戰史館,Hujingtou Battle Museum,24.44662,118.23105,觀光署開放資料,高（名稱完全相符）,湖井頭戰史館
+金門縣,獅山砲陣地,,24.50396,118.43708,觀光署開放資料,高（名稱完全相符）,獅山砲陣地
+金門縣,翟山坑道,Zhaishan Tunnel,24.390104,118.3192566,OSM地理編碼,地理編碼（自動）,
+金門縣,總兵署,Military Headquarters of Qing Dynasty,24.4323,118.31841,觀光署開放資料,中（模糊比對，建議核對）,清金門鎮總兵署
+金門縣,雙鯉濕地自然中心,Shuangli Wetlands Nature Center,24.4761236,118.3098249,OSM地理編碼,地理編碼（自動）,
+連江縣,北竿遊憩系統,Beigan Recreation Area,26.21627,119.97456,觀光署開放資料,高（核心名稱相符）,北竿遊客中心
+連江縣,東引遊憩系統,Dongyin Recreation Area,26.36002,120.48423,觀光署開放資料,高（核心名稱相符）,東引遊客中心
+連江縣,南竿遊憩系統,Nangan Recreation Area,26.1530833,119.9386274,OSM地理編碼,地理編碼（自動）,
+連江縣,莒光遊憩系統,Juguang Recreation Area,25.9762875,119.9407997,OSM地理編碼,地理編碼（自動）,
