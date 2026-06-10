@@ -17,8 +17,8 @@ configurable through arguments.
 ```r
 # install.packages("pak")
 pak::pak(c("httr2", "jsonlite", "tibble", "rlang", "cli"))
-# from this folder:
-devtools::document(); devtools::install()
+# install.packages("remotes")
+remotes::install_github("yyliou/scen")
 ```
 
 ## 2. Functions
