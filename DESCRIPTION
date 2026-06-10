@@ -1,0 +1,30 @@
+Package: scen
+Title: Client for the Taiwan Tourism Administration Statistics Database
+Version: 0.1.0
+Authors@R:
+    person("scen", "contributors", email = "yuyou.liou@gmail.com", role = c("aut", "cre"))
+Description: A programmatic client for the Tourism Statistics Database of the
+    Taiwan Tourism Administration (stat.taiwan.net.tw). Provides functions to
+    download visitor counts for the major scenic / recreational spots
+    (the main purpose of the package), as well as inbound visitor arrivals,
+    outbound traveller departures and cruise visitor data, including the
+    finest cross-tabulations exposed by the site (e.g. age x gender x purpose).
+    The package reproduces the site's request-signing scheme, handles the
+    server's rate limiting with throttling and exponential back-off, and caches
+    successful responses on disk.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
+Depends:
+    R (>= 4.0)
+Imports:
+    httr2,
+    jsonlite,
+    tibble,
+    rlang,
+    cli
+Suggests:
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+URL: https://stat.taiwan.net.tw
